@@ -1,18 +1,5 @@
-## Getting Started
+I am Zahin Abdullah Rakin an undergrad student of IIT,DU studying Software Engineering. This repository is for the course CSE-506(design pattern). I belong to the group B. Course teacher:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Toukir Ahammed (TA)
+Emon Kumar Dey (EKD)
+Course start date: 23 September 2024.
